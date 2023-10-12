@@ -5,6 +5,7 @@
 ---
 ```ruby
 module resume (
+
     output reg [31:0] name,
     output reg [31:0] education,
     output reg [31:0] work_experience,
