@@ -24,8 +24,8 @@ endmodule
 <!--START_SECTION:waka-->
 
 ```txt
-Verilog    5 hrs 16 mins         █████████████████████▒░░░   85.77 %
-vHDL        29 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Verilog    15 hrs 16 mins        █████████████████████▒░░░   85.77 %
+vHDL       2hrs 29 mins          ████████░░░░░░░░░░░░░░░░░   27.07 %
 ```
 
 <!--END_SECTION:waka-->
