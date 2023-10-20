@@ -6,12 +6,11 @@
 ```ruby
 module resume (
 
-    output reg [31:0] name,
-    output reg [31:0] education,
-    output reg [31:0] work_experience,
-    output reg [31:0] skills
-);
+    output reg [31:0] name, motto, education, work_Experience, skills
+
+); 
     assign name = "Surya";
+    assign motto = "FREAW"; // fetch, read, execute, access, write :)
     assign education = "Master of Science in Computer Engineering";
     assign work_experience = "Research Assistant & Course Assistant @ NYU, PLC tech Intern";
     assign skills = "Verilog, Python, etc.";
