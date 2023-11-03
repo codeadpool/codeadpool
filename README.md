@@ -13,7 +13,7 @@ module resume (
     assign motto = "FREAW"; // fetch, read, execute, access, write;)
     assign education = "Master of Science in Computer Engineering";
     assign work_experience = "Research Assistant & Course Assistant @ NYU, PLC tech Intern";
-    assign skills = "Verilog, Python, etc.";
+    assign skills = "Verilog, C++, Python, etc..";
 
 endmodule
 ```
