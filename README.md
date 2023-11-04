@@ -1,8 +1,10 @@
 
 <h1 align="center">Ryōiki Tenkai</h1>
 
-- Now, witness the sorcery of how I weave code like spells and create repos more powerful than a cursed technique. #CodeSorcery
+Now, witness the sorcery of how I weave code like spells and create repos more powerful than a cursed technique. ```#CodeSorcery ```
+
 ---
+
 ```ruby
 module resume (
 
@@ -19,7 +21,7 @@ endmodule
 ```
 ---
 
-**this week i spent my time on:**
+**This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
