@@ -7,9 +7,7 @@ Now, witness the sorcery of how I weave code like spells and create repos more p
 
 ```ruby
 module resume (
-
     output reg [31:0] name, motto, education, work_Experience, skills
-
 ); 
     assign name = "Surya";
     assign motto = "FREAW"; // fetch, read, execute, access, write;)
