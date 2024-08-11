@@ -3,7 +3,7 @@
 <p align="center">
   <img src="221971.gif" alt="Alt text">
 </p>
-```#MAXIMUMEFFORT```
+```#MaximumEffort```
 ---
 
 ```ruby
