@@ -3,7 +3,8 @@
 <p align="center">
   <img src="221971.gif" alt="Alt text">
 </p>
-```#CODESORCERY``` ```#MAXIMUMEFFORT```
+```#CODESORCERY``` 
+```#MAXIMUMEFFORT```
 ---
 
 ```ruby
