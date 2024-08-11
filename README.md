@@ -1,6 +1,7 @@
 
 <h1 align="center">Ryōiki Tenkai</h1>
 <img src="221971.gif" alt="Alt text">
+<img src="221971.gif" alt="Alt text" style="display:block;margin-left:auto;margin-right:auto;">
 
 Now, witness the sorcery of how I weave code like spells and create repos more powerful than a cursed technique. ```#CodeSorcery ```
 
