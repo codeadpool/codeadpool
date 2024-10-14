@@ -1,7 +1,6 @@
-
-<h1 align="center">Ryōiki Tenkai</h1>
+<h1 align="center">Yokoso Watashi No Sōru Societie</h1>
 <p align="center">
-  <img src="221971.gif" alt="Alt text">
+  <img src="sosuke.gif" alt="Alt text">
 </p>
 
 ---
