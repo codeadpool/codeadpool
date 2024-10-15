@@ -1,4 +1,4 @@
-<h1 align="center">Yokoso Watashi No Sōru Societie</h1>
+<h1 align="center">Yokoso Watashi No Cōde Societie</h1>
 <p align="center">
   <img src="sosuke.gif" alt="Alt text">
 </p>
